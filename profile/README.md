@@ -1,5 +1,5 @@
 # The First Decree
-Our mission is to provide high-quality services that prioritize security, privacy, ethics, and transparency, safeguarding digital identities while ensuring safety and empowering our customers to feel valued at the heart of our business.
+Our vision is a world where digital services uphold the highest standards of privacy, security, transparency and ethics. Where users are respected not exploited.
 
 ## 🌟 How You Can Support Us
 1. Share your ideas on projects you would love to see us build. Your creativity helps guide what we create next.
@@ -11,3 +11,6 @@ Our mission is to provide high-quality services that prioritize security, privac
 7. Encourage others to get involved, helping us build a stronger and more supportive community around our projects.
 8. Inquire with [NCryptsion](https://github.com/ncryptsion) for freelance services. A percentage of every freelance project will be invested into The First Decree, helping support and sustain its development.
     - <code>Discord Server Setup</code>, <code>Discord Bot Development</code>, <code>Website Development</code>, <code>Roblox Game Development</code>, <code>Cheap Accounts</code>, <code>Cybersecurity</code>, <code>Customized Tools</code>. If you have additional inquiries, please contact [NCryptsion](https://github.com/ncryptsion) for further evaluation and assistance.
+
+## 🌟 Backers & Sponsors
+We are deeply grateful to our backers and sponsors for their support. We invite you to learn more about them here: [The First Decree - Sponsors](https://firstdecree.org/#sponsors)
