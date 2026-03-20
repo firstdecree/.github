@@ -1,4 +1,4 @@
-<h3 align="center">Your Needs, Our Command.</h3>
+<div align="center"><img src="https://i.ibb.co/pr6x49z1/fdd.png"/></div>
 
 # The First Decree
 Our vision is a world where digital services uphold the highest standards of privacy, security, transparency and ethics. Where users are respected not exploited.
