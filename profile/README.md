@@ -12,5 +12,5 @@ Our vision is a world where digital services uphold the highest standards of pri
 8. Inquire with [NCryptsion](https://github.com/ncryptsion) for freelance services. A percentage of every freelance project will be invested into The First Decree, helping support and sustain its development.
     - <code>Discord Server Setup</code>, <code>Discord Bot Development</code>, <code>Website Development</code>, <code>Roblox Game Development</code>, <code>Cheap Accounts</code>, <code>Cybersecurity</code>, <code>Customized Tools</code>. If you have additional inquiries, please contact [NCryptsion](https://github.com/ncryptsion) for further evaluation and assistance.
 
-## 🌟 Backers & Sponsors
-We are deeply grateful to our backers and sponsors for their support. We invite you to learn more about them here: [The First Decree - Sponsors](https://firstdecree.org/#sponsors)
+## 💖 Backers & Sponsors
+We are deeply grateful to our backers and sponsors for their support. We invite you to learn more about them here: [The First Decree - Sponsors](https://firstdecree.org/#involved)
