@@ -1,7 +1,7 @@
 <div align="center"><img src="https://i.ibb.co/pr6x49z1/fdd.png"/></div>
 
 # The First Decree
-Our vision is a world where digital services uphold the highest standards of privacy, security, transparency and ethics. Where users are respected not exploited.
+Our vision is a world where digital services uphold the highest standards of privacy, security, transparency and ethics. Where users are respected not exploited. Check our services and products at [The First Decree - Solutions](https://www.firstdecree.org/solutions)
 
 ## 🌟 How You Can Support Us
 1. Share your ideas on projects you would love to see us build. Your creativity helps guide what we create next.
